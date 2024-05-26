@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.py": "bat",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
+    }
+}
